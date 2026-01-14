@@ -12,18 +12,7 @@ I am a developer passionate about Artificial Intelligence and its practical appl
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TIMLONGG&show_icons=true&theme=tokyonight&count_private=true" alt="TIMLONGG's GitHub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMLONGG&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="192px" />
-</p>
-
----
-
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIMLONGG)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
