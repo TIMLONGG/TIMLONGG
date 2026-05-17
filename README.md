@@ -1,12 +1,10 @@
-I’m preparing for interviews for a llm algo internship, hoping everything goes well.
-
-*“Done is better than perfect.”* 
+I’m preparing for interviews for a llm algo internship.
 
 <!--
 **TIMLONGG/TIMLONGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+*“Done is better than perfect.”* 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
