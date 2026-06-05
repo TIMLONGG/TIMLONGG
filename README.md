@@ -1,4 +1,4 @@
-I’m preparing for interviews for a llm algo internship.
+Entangle with learning, not wrestle with time.
 
 <!--
 **TIMLONGG/TIMLONGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
