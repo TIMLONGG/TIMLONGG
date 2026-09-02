@@ -1,6 +1,6 @@
 Just build it.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TIMLONGG&theme=github_dark_dimmed)](https://github.com/TIMLONGG)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TIMLONGG&theme=github_dark)](https://github.com/TIMLONGG)
 
 
 <!--
