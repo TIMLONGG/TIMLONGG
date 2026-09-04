@@ -1,9 +1,11 @@
 Just build it.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TIMLONGG&theme=github_dark)](https://github.com/TIMLONGG)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TIMLONGG&theme=transparent)](https://github.com/TIMLONGG)
+
 
 
 <!--
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TIMLONGG&theme=github_dark)](https://github.com/TIMLONGG)
 **TIMLONGG/TIMLONGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
